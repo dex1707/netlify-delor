@@ -1,0 +1,74 @@
+@media all and (max-width: 1024px)
+{
+    nav
+    {
+        width: auto;
+        text-align: left;
+    }
+    
+    nav ul
+    {
+        flex-direction: column;
+    }
+
+    nav li
+    {
+        padding-left: 4px;
+    }
+    
+    nav a
+    {
+        font-size: 1.1em;
+    }
+    
+    nav a:hover
+    {
+        border-bottom: 0;
+    }
+}
+
+
+
+nav{
+    background-color: darkslategrey
+    background-attachment: fixed;
+}
+
+h1{
+  color:yellow
+  
+}
+
+Header{
+  
+    background:fixed no-repeat center;
+    background-image: url(spa.webp);
+    background-size: cover;
+    height: 100vh;
+}
+  
+}
+
+h2{
+    color: white;
+}
+
+h3 , h4 , {
+    color:wheat;
+    font-weight: lighter;
+}
+
+h1{
+    color: black;
+}
+
+footer{
+    background-color: dimgray;
+    padding: 6px;
+    margin-bottom: 6px;
+}
+
+
+
+ 
+
